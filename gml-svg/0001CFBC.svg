@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1516.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-741.000000 -866.000000 1516.000000 1655.000000" height="1655.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="15.0"
+              d="M 262.725891,-27.179417 C 273.222351,-80.687241 369.228699,-145.204315 422.736542,-134.707870"
+              class="794E4400 7B33CA74" stroke-opacity="0.49803922"
+              stroke="#fd3644"/>
+        <path fill="none" stroke-width="14.0"
+              d="M -262.123718,108.672348 C -284.617126,185.421753 -433.481323,266.805786 -510.230713,244.312378"
+              class="79477BFD 7B375867" stroke-opacity="0.49803922"
+              stroke="#3b41dd"/>
+        <path fill="none" stroke-width="13.0"
+              d="M 202.385834,-192.565048 C 184.000992,-230.922241 213.959534,-316.035309 252.316727,-334.420135"
+              class="78842E39 7A5E7E02" stroke-opacity="0.49803922"
+              stroke="#7b61d7"/>
+        <path fill="none" stroke-width="14.0"
+              d="M -251.210754,377.470245 C -158.025909,416.318909 -76.521622,614.369141 -115.370285,707.554016"
+              class="7A01072E 768BD2D6" stroke-opacity="0.49803922"
+              stroke="#f77ea3"/>
+        <path fill="none" stroke-width="15.0"
+              d="M -335.819672,-182.058182 C -384.801575,-190.760971 -445.220245,-277.288025 -436.517456,-326.269928"
+              class="7B08FC27 7BA77CBE" stroke-opacity="0.49803922"
+              stroke="#b27dd3"/>
+        <path fill="none" stroke-width="14.0"
+              d="M -191.964630,20.276638 C -235.407837,43.264172 -335.053955,12.580662 -358.041473,-30.862545"
+              class="75CD47B1 79F6F67B" stroke-opacity="0.49803922"
+              stroke="#d284c5"/>
+        <path fill="none" stroke-width="17.0"
+              d="M 128.789490,-208.009109 C 157.587051,-175.802887 152.474030,-84.297195 120.267799,-55.499638"
+              class="7C7FD402 782C6E1A" stroke-opacity="0.49803922"
+              stroke="#f790ba"/>
+        <path fill="none" stroke-width="16.0"
+              d="M 128.789490,-208.009109 C 74.088799,-159.132172 -81.277611,-167.867828 -130.154541,-222.568527"
+              class="7C7FD402 7C3F4C14" stroke-opacity="0.49803922"
+              stroke="#f78ab2"/>
+        <path fill="none" stroke-width="12.0"
+              d="M 128.789490,-208.009109 C -14.756775,-247.421082 -170.958176,-521.858459 -131.546188,-665.404724"
+              class="7C7FD402 7713CEE6" stroke-opacity="0.49803922"
+              stroke="#f77294"/>
+        <path fill="none" stroke-width="16.0"
+              d="M 256.211792,420.242828 C 290.743866,442.861633 308.613770,528.587891 285.994965,563.119995"
+              class="76C12F69 7E78835B" stroke-opacity="0.49803922"
+              stroke="#966fd5"/>
+        <path fill="none" stroke-width="17.0"
+              d="M 55.218933,70.557037 C 129.338089,46.627392 276.411285,121.911636 300.340942,196.030792"
+              class="759DCF36 7A26F40E" stroke-opacity="0.49803922"
+              stroke="#fe1216"/>
+        <path fill="none" stroke-width="19.0"
+              d="M -6.791204,420.535492 C 9.734280,314.208130 194.013580,179.505310 300.340942,196.030792"
+              class="76EFD556 7A26F40E" stroke-opacity="0.49803922"
+              stroke="#fe0607"/>
+        <path fill="none" stroke-width="18.0"
+              d="M 103.487869,-261.139801 C 101.027557,-370.550476 261.453064,-538.356873 370.863739,-540.817200"
+              class="7845D339 7DAF07F0" stroke-opacity="0.49803922"
+              stroke="#715cd8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -204.166534,79.388863 C -180.036530,123.377991 -209.825256,225.556671 -253.814377,249.686676"
+              class="7C3EA45E 7B753803" stroke-opacity="0.49803922"
+              stroke="#e64b6f"/>
+        <path fill="none" stroke-width="19.0"
+              d="M -204.166534,79.388863 C -150.496368,188.929672 -234.302307,433.746124 -343.843140,487.416290"
+              class="7C3EA45E 5B3C9536" stroke-opacity="0.49803922"
+              stroke="#d78fcf"/>
+        <path fill="none" stroke-width="19.0"
+              d="M -70.151382,112.348518 C 4.158051,161.313873 42.174156,346.226074 -6.791204,420.535492"
+              class="80F36F35 76EFD556" stroke-opacity="0.49803922"
+              stroke="#fe1216"/>
+        <path fill="none" stroke-width="18.0"
+              d="M 55.218933,70.557037 C 112.812592,152.954758 75.606514,362.941833 -6.791204,420.535492"
+              class="759DCF36 76EFD556" stroke-opacity="0.49803922"
+              stroke="#fe181e"/>
+        <path fill="none" stroke-width="19.0"
+              d="M 120.267799,-55.499638 C 36.769558,-38.828945 -113.483841,-139.070282 -130.154541,-222.568527"
+              class="782C6E1A 7C3F4C14" stroke-opacity="0.49803922"
+              stroke="#fc7d9f"/>
+        <path fill="none" stroke-width="15.0"
+              d="M 120.267799,-55.499638 C -52.076019,-127.117851 -203.164398,-493.060913 -131.546188,-665.404724"
+              class="782C6E1A 7713CEE6" stroke-opacity="0.49803922"
+              stroke="#fc6681"/>
+        <path fill="none" stroke-width="19.0"
+              d="M -325.290741,137.989395 C -425.680756,160.243851 -609.647522,43.040493 -631.901978,-57.349548"
+              class="76469F4E 7B6E1BA1" stroke-opacity="0.49803922"
+              stroke="#1f33df"/>
+        <path fill="none" stroke-width="16.0"
+              d="M -130.154541,-222.568527 C -219.000122,-310.857452 -219.835098,-576.559143 -131.546188,-665.404724"
+              class="7C3F4C14 7713CEE6" stroke-opacity="0.49803922"
+              stroke="#fc5f79"/>
+        <path fill="none" stroke-width="19.0"
+              d="M 508.665161,197.721741 C 543.331360,243.287552 526.981995,363.635590 481.416168,398.301819"
+              class="7A7A1171 7AA704C2" stroke-opacity="0.49803922"
+              stroke="#fe2a34"/>
+        <path fill="none" stroke-width="19.0"
+              d="M 55.218933,70.557037 C 38.503166,103.989395 -36.719025,129.064285 -70.151382,112.348518"
+              class="759DCF36 80F36F35" stroke-opacity="0.49803922"
+              stroke="#fe1e25"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 325.592529,-26.320917 C 401.719727,-74.831657 588.676575,-33.407009 637.187317,42.720165"
+              class="7A283575 7BBC02F0" stroke-opacity="0.49803922"
+              stroke="#ef5c7e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.222229,-92.419182 C 369.843109,-138.984329 590.622192,-57.900719 637.187317,42.720165"
+              class="846FF611 7BBC02F0" stroke-opacity="0.49803922"
+              stroke="#812587"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#fe181e" r="78.35478" cx="422.73654"
+                class="7B33CA74" cy="-134.70787" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#725dd8" r="97.37489" cx="-510.2307"
+                class="7B375867" cy="244.31238" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#bb81d2" r="90.00151" cx="252.31673"
+                class="7A5E7E02" cy="-334.42014" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fd6079" r="81.10487" cx="-115.370285"
+                class="768BD2D6" cy="707.554" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e094cf" r="87.28394" cx="-436.51746"
+                class="7BA77CBE" cy="-326.26993" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc90b6" r="84.10267" cx="-358.04147"
+                class="79F6F67B" cy="-30.862545" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f29dcd" r="20.0" cx="128.78949"
+                class="7C7FD402" cy="-208.00911" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#725dd8" r="20.0" cx="256.2118"
+                class="76C12F69" cy="420.24283" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#bb81d2" r="90.00151" cx="285.99496"
+                class="7E78835B" cy="563.12" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="135.49681" cx="300.34094"
+                class="7A26F40E" cy="196.03079" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8466d7" r="95.24655" cx="370.86374"
+                class="7DAF07F0" cy="-540.8172" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fe0c0f" r="78.03644" cx="-253.81438"
+                class="7B753803" cy="249.68668" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ce8bd0" r="20.0" cx="-204.16653"
+                class="7C3EA45E" cy="79.38886" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fe0c0f" r="136.07288" cx="-6.7912045"
+                class="76EFD556" cy="420.5355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8466d7" r="20.0" cx="-335.81967"
+                class="7B08FC27" cy="-182.05818" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc84a7" r="83.23736" cx="120.2678"
+                class="782C6E1A" cy="-55.499638" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2838de" r="108.37467" cx="-631.902"
+                class="7B6E1BA1" cy="-57.34955" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fd485b" r="200.0" cx="-131.54619"
+                class="7713CEE6" cy="-665.4047" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fe242d" r="78.70659" cx="481.41617"
+                class="7AA704C2" cy="398.30182" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc7797" r="144.90877" cx="-130.15454"
+                class="7C3F4C14" cy="-222.56853" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fe242d" r="20.0" cx="55.218933"
+                class="759DCF36" cy="70.55704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fe242d" r="137.41318" cx="637.1873"
+                class="7BBC02F0" cy="42.720165" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0426e2" r="20.0" cx="-262.12372"
+                class="79477BFD" cy="108.67235" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0426e2" r="20.0" cx="269.22223"
+                class="846FF611" cy="-92.41918" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fe181e" r="78.35478" cx="-70.15138"
+                class="80F36F35" cy="112.34852" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e094cf" r="20.0" cx="325.59253"
+                class="7A283575" cy="-26.320917" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e094cf" r="87.28394" cx="-343.84314"
+                class="5B3C9536" cy="487.4163" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5f53da" r="20.0" cx="103.48787"
+                class="7845D339" cy="-261.1398" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#a978d4" r="20.0" cx="-191.96463"
+                class="75CD47B1" cy="20.276638" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3b41dd" r="20.0" cx="202.38583"
+                class="78842E39" cy="-192.56505" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#162fe0" r="20.0" cx="-325.29074"
+                class="76469F4E" cy="137.9894" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f29dcd" r="20.0" cx="-251.21075"
+                class="7A01072E" cy="377.47025" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fd546a" r="20.0" cx="262.7259"
+                class="794E4400" cy="-27.179417" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fe303c" r="20.0" cx="508.66516"
+                class="7A7A1171" cy="197.72174" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="31" x="422.73654" y="-127.43215" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7B33CA74">
+            N G Bowery
+        </text>
+        <text font-size="39" x="-510.2307" y="253.4657" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7B375867">
+            Diego F Calvisi
+        </text>
+        <text font-size="36" x="252.31673" y="-325.97092" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7A5E7E02">
+            Mariepierre Egloff
+        </text>
+        <text font-size="32" x="-115.370285" y="713.3743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="768BD2D6">
+            Lukas A Huber
+        </text>
+        <text font-size="35" x="-436.51746" y="-319.89825" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7BA77CBE">
+            Jose B Pereiraleal
+        </text>
+        <text font-size="34" x="-358.04147" y="-24.567787" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="79F6F67B">
+            Tamas Gaal
+        </text>
+        <text font-size="8" x="128.78949" y="-206.52798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7C7FD402">
+            Renata Ciccarelli
+        </text>
+        <text font-size="8" x="256.2118" y="421.69922" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="76C12F69">
+            K P Janssen
+        </text>
+        <text font-size="36" x="285.99496" y="569.6737" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7E78835B">
+            K P Janssen
+        </text>
+        <text font-size="54" x="300.34094" y="205.85257" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7A26F40E">
+            A P Dawson
+        </text>
+        <text font-size="38" x="370.86374" y="-533.7788" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7DAF07F0">
+            C J Oneal
+        </text>
+        <text font-size="31" x="-253.81438" y="255.42603" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7B753803">
+            Arlene D Colon
+        </text>
+        <text font-size="8" x="-204.16653" y="80.84394" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7C3EA45E">
+            Andreas Plaitakis
+        </text>
+        <text font-size="54" x="-6.7912045" y="430.35727" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="76EFD556">
+            Volkmar Henne
+        </text>
+        <text font-size="8" x="-335.81967" y="-180.57706" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7B08FC27">
+            Yumiko Saitonakano
+        </text>
+        <text font-size="33" x="120.2678" y="-47.75452" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="782C6E1A">
+            John W Gysbers
+        </text>
+        <text font-size="43" x="-631.902" y="-49.38853" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7B6E1BA1">
+            Ilka Czech
+        </text>
+        <text font-size="80" x="-131.54619" y="-650.84094" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7713CEE6">
+            J K Kim
+        </text>
+        <text font-size="31" x="481.41617" y="405.5775" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7AA704C2">
+            Carlo Alberto Maggi
+        </text>
+        <text font-size="58" x="-130.15454" y="-212.00977" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7C3F4C14">
+            Pamela J Middlemiss
+        </text>
+        <text font-size="8" x="55.218933" y="72.03816" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="759DCF36">
+            Peter J Cullen
+        </text>
+        <text font-size="55" x="637.1873" y="55.628693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7BBC02F0">
+            Carlo M Bergamini
+        </text>
+        <text font-size="8" x="-262.12372" y="110.15347" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="79477BFD">
+            J C Nault
+        </text>
+        <text font-size="8" x="269.22223" y="-90.938065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="846FF611">
+            Soner Gundemir
+        </text>
+        <text font-size="31" x="-70.15138" y="117.986946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="80F36F35">
+            Volkmar Henne
+        </text>
+        <text font-size="8" x="325.59253" y="-24.865839" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7A283575">
+            Mathieu Lesort
+        </text>
+        <text font-size="35" x="-343.84314" y="493.78226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="5B3C9536">
+            Andreas Plaitakis
+        </text>
+        <text font-size="8" x="103.48787" y="-259.28693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7845D339">
+            Abhay H Pande
+        </text>
+        <text font-size="8" x="-191.96463" y="22.154243" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="75CD47B1">
+            C T Ranjithkumar
+        </text>
+        <text font-size="8" x="202.38583" y="-191.10997" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="78842E39">
+            Michela Bollati
+        </text>
+        <text font-size="8" x="-325.29074" y="139.47052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="76469F4E">
+            Ilka Czech
+        </text>
+        <text font-size="8" x="-251.21075" y="378.95203" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7A01072E">
+            Hirohide Ohnishi
+        </text>
+        <text font-size="8" x="262.7259" y="-25.301813" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="794E4400">
+            Giorgio P Martinelli
+        </text>
+        <text font-size="8" x="508.66516" y="199.59933" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7A7A1171">
+            Pierangelo Geppetti
+        </text>
+    </g>
+</svg>
