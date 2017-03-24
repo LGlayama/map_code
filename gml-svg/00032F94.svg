@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1607.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-724.000000 -875.000000 1607.000000 1910.000000" height="1910.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="14.0"
+              d="M 380.851410,-220.863663 C 450.959930,-258.469299 612.531250,-209.714981 650.136902,-139.606430"
+              class="59D9C68E 7D3D9704" stroke-opacity="0.49803922"
+              stroke="#6958d9"/>
+        <path fill="none" stroke-width="15.0"
+              d="M -105.374550,138.092056 C 56.976028,257.643311 121.174988,680.496094 1.623707,842.846680"
+              class="76A8E112 7BAD5F12" stroke-opacity="0.49803922"
+              stroke="#6255d9"/>
+        <path fill="none" stroke-width="14.0"
+              d="M 142.721146,-55.898731 C 222.551270,18.929831 230.053635,250.917892 155.225067,330.748016"
+              class="77B4D004 78E67317" stroke-opacity="0.49803922"
+              stroke="#3e43dc"/>
+        <path fill="none" stroke-width="20.0"
+              d="M 153.462082,2.922882 C 219.379700,68.135307 220.437500,264.830383 155.225067,330.748016"
+              class="77E0DCF6 78E67317" stroke-opacity="0.49803922"
+              stroke="#6a59d9"/>
+        <path fill="none" stroke-width="19.0"
+              d="M -396.562195,-164.704086 C -462.378326,-175.734207 -544.557251,-291.003510 -533.527161,-356.819641"
+              class="77C62669 79C31C69" stroke-opacity="0.49803922"
+              stroke="#2837de"/>
+        <path fill="none" stroke-width="17.0"
+              d="M 93.347931,-384.377319 C -15.959747,-423.860657 -120.696251,-647.047180 -81.212914,-756.354858"
+              class="79B0C4E6 75C93B80" stroke-opacity="0.49803922"
+              stroke="#2838de"/>
+        <path fill="none" stroke-width="19.0"
+              d="M -471.279175,-128.697784 C -496.357544,-88.529205 -594.227966,-65.893890 -634.396545,-90.972260"
+              class="7FEEF27A 758B8895" stroke-opacity="0.49803922"
+              stroke="#fe0406"/>
+        <path fill="none" stroke-width="9.0"
+              d="M 17.897932,-159.880264 C 39.489998,-119.440369 11.218239,-26.392418 -29.221664,-4.800353"
+              class="79F82A24 7BE04C22" stroke-opacity="0.49803922"
+              stroke="#8e6bd6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 76.258308,-165.381454 C 76.976028,-209.829010 144.723953,-275.423767 189.171509,-274.706055"
+              class="7738025E 7562ED87" stroke-opacity="0.49803922"
+              stroke="#a52e79"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 344.888611,-268.253326 C 353.194702,-315.343048 436.288452,-373.518463 483.378174,-365.212372"
+              class="7BC3423F 7B2F7D4B" stroke-opacity="0.49803922"
+              stroke="#8e6ad6"/>
+        <path fill="none" stroke-width="15.0"
+              d="M -451.318085,-193.914276 C -532.957092,-287.596954 -514.891479,-550.579468 -421.208801,-632.218445"
+              class="77B9C3D4 7FB09267" stroke-opacity="0.49803922"
+              stroke="#7f63d7"/>
+        <path fill="none" stroke-width="15.0"
+              d="M -103.239693,213.274857 C 43.647354,318.216522 106.565392,695.959656 1.623707,842.846680"
+              class="7BED54A1 7BAD5F12" stroke-opacity="0.49803922"
+              stroke="#6255d9"/>
+        <path fill="none" stroke-width="20.0"
+              d="M 144.781967,-114.091774 C 201.277481,-143.743439 330.498230,-103.477699 360.149902,-46.982201"
+              class="7D8AC7F6 78E77703" stroke-opacity="0.49803922"
+              stroke="#5b51da"/>
+        <path fill="none" stroke-width="18.0"
+              d="M 74.909630,-443.547119 C 81.537537,-510.983734 192.634323,-602.196777 260.070923,-595.568848"
+              class="7EBE4C49 7681052E" stroke-opacity="0.49803922"
+              stroke="#122de0"/>
+        <path fill="none" stroke-width="11.0"
+              d="M 372.579315,144.788437 C 479.984528,206.209702 548.960510,459.449463 487.539246,566.854675"
+              class="7A21EF1E 7E8CF18D" stroke-opacity="0.49803922"
+              stroke="#fd3d4e"/>
+        <path fill="none" stroke-width="18.0"
+              d="M -218.702286,-99.316566 C -218.633484,-47.766678 -295.855072,29.661379 -347.404968,29.730190"
+              class="7588D8FE 7B5111EF" stroke-opacity="0.49803922"
+              stroke="#2f3bde"/>
+        <path fill="none" stroke-width="18.0"
+              d="M -159.654861,183.387268 C -159.368637,233.560486 -234.199142,309.249664 -284.372375,309.535858"
+              class="79578F1E 7889F228" stroke-opacity="0.49803922"
+              stroke="#5b51da"/>
+        <path fill="none" stroke-width="16.0"
+              d="M -425.912903,221.194412 C -461.758209,253.424744 -563.871643,248.002258 -596.101990,212.156952"
+              class="7F255EA9 757E33C9" stroke-opacity="0.49803922"
+              stroke="#4c4adb"/>
+        <path fill="none" stroke-width="18.0"
+              d="M -284.372375,309.535858 C -235.754120,372.170105 -256.778046,539.048828 -319.412292,587.667114"
+              class="7889F228 7A6CFE3B" stroke-opacity="0.49803922"
+              stroke="#7860d7"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -336.920288,-147.466705 C -343.121918,-225.886902 -234.794052,-352.819672 -156.373856,-359.021301"
+              class="768B1850 80823CD8" stroke-opacity="0.49803922"
+              stroke="#8e66cf"/>
+        <path fill="none" stroke-width="17.0"
+              d="M -182.412018,-42.164284 C -240.575806,-110.743324 -224.952881,-300.857544 -156.373856,-359.021301"
+              class="77CFBD3F 80823CD8" stroke-opacity="0.49803922"
+              stroke="#ed95c7"/>
+        <path fill="none" stroke-width="13.0"
+              d="M 207.237000,48.201626 C 338.828857,-17.080429 634.139771,82.384323 699.421814,213.976196"
+              class="7F9217A1 7D7BB092" stroke-opacity="0.49803922"
+              stroke="#7f63d7"/>
+        <path fill="none" stroke-width="17.0"
+              d="M 424.755096,111.849564 C 500.113770,77.341537 664.913818,138.617523 699.421814,213.976196"
+              class="77BB527E 7D7BB092" stroke-opacity="0.49803922"
+              stroke="#9d72d4"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#3e43dd" r="20.0" cx="380.8514"
+                class="59D9C68E" cy="-220.86366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3e43dd" r="20.0" cx="-105.37455"
+                class="76A8E112" cy="138.09206" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a59d9" r="200.0" cx="155.22507"
+                class="78E67317" cy="330.74802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#956ed5" r="104.17448" cx="650.1369"
+                class="7D3D9704" cy="-139.60643" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2134df" r="20.0" cx="-396.5622"
+                class="77C62669" cy="-164.70409" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3e43dd" r="117.86363" cx="-81.21291"
+                class="75C93B80" cy="-756.35486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="89.033966" cx="-634.39655"
+                class="758B8895" cy="-90.97226" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#de93cf" r="97.622795" cx="-29.221664"
+                class="7BE04C22" cy="-4.800353" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2f3bde" r="121.05454" cx="-533.52716"
+                class="79C31C69" cy="-356.81964" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fe1318" r="89.3684" cx="189.17151"
+                class="7562ED87" cy="-274.70605" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed9ace" r="96.66171" cx="483.37817"
+                class="7B2F7D4B" cy="-365.21237" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5b51da" r="20.0" cx="-451.31808"
+                class="77B9C3D4" cy="-193.91428" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fe090c" r="20.0" cx="-471.27917"
+                class="7FEEF27A" cy="-128.69778" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3e43dd" r="20.0" cx="17.897932"
+                class="79F82A24" cy="-159.88026" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8767d6" r="191.85136" cx="1.6237068"
+                class="7BAD5F12" cy="842.8467" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5b51da" r="20.0" cx="144.78197"
+                class="7D8AC7F6" cy="-114.091774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0426e2" r="20.0" cx="74.90963"
+                class="7EBE4C49" cy="-443.54712" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a59d9" r="20.0" cx="153.46208"
+                class="77E0DCF6" cy="2.9228816" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fe1318" r="89.3684" cx="487.53925"
+                class="7E8CF18D" cy="566.8547" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3e43dd" r="117.86363" cx="-347.40497"
+                class="7B5111EF" cy="29.73019" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c4adb" r="20.0" cx="-159.65486"
+                class="79578F1E" cy="183.38727" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#122de0" r="20.0" cx="142.72115"
+                class="77B4D004" cy="-55.89873" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#122de0" r="20.0" cx="93.34793"
+                class="79B0C4E6" cy="-384.37732" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2f3bde" r="20.0" cx="-425.9129"
+                class="7F255EA9" cy="221.19441" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#a476d4" r="102.58991" cx="-421.2088"
+                class="7FB09267" cy="-632.21844" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a59d9" r="110.0" cx="-596.102"
+                class="757E33C9" cy="212.15695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a59d9" r="110.0" cx="-284.37238"
+                class="7889F228" cy="309.53586" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c4adb" r="20.0" cx="76.25831"
+                class="7738025E" cy="-165.38145" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2134df" r="124.58105" cx="260.07092"
+                class="7681052E" cy="-595.56885" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc98c0" r="170.01042" cx="-156.37386"
+                class="80823CD8" cy="-359.0213" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fd6884" r="20.0" cx="372.5793"
+                class="7A21EF1E" cy="144.78844" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8767d6" r="105.92568" cx="-319.4123"
+                class="7A6CFE3B" cy="587.6671" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2f3bde" r="20.0" cx="344.8886"
+                class="7BC3423F" cy="-268.25333" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c4adb" r="20.0" cx="207.237"
+                class="7F9217A1" cy="48.201626" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#de93cf" r="20.0" cx="-182.41202"
+                class="77CFBD3F" cy="-42.164284" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8767d6" r="20.0" cx="424.7551"
+                class="77BB527E" cy="111.84956" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2134df" r="20.0" cx="-336.9203"
+                class="768B1850" cy="-147.4667" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3e43dd" r="20.0" cx="-103.23969"
+                class="7BED54A1" cy="213.27486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2134df" r="20.0" cx="-218.70229"
+                class="7588D8FE" cy="-99.31657" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b37dd3" r="182.3123" cx="699.4218"
+                class="7D7BB092" cy="213.9762" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5b51da" r="112.363884" cx="360.1499"
+                class="78E77703" cy="-46.9822" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="8" x="380.8514" y="-219.00949" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="59D9C68E">
+            D Mikis Stasinopoulos
+        </text>
+        <text font-size="8" x="-105.37455" y="139.9703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="76A8E112">
+            Qingyun Duan
+        </text>
+        <text font-size="80" x="155.22507" y="349.27667" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="78E67317">
+            David Mcgrath
+        </text>
+        <text font-size="42" x="650.1369" y="-131.83055" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7D3D9704">
+            Stef Van Buuren
+        </text>
+        <text font-size="8" x="-396.5622" y="-163.24901" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="77C62669">
+            Kenneth Lo
+        </text>
+        <text font-size="47" x="-81.21291" y="-745.4693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="75C93B80">
+            Jing Yang
+        </text>
+        <text font-size="36" x="-634.39655" y="-82.73984" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="758B8895">
+            Keith W Hipel
+        </text>
+        <text font-size="39" x="-29.221664" y="2.4232798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7BE04C22">
+            V De Oliveira
+        </text>
+        <text font-size="48" x="-533.52716" y="-348.08917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="79C31C69">
+            Kenneth Lo
+        </text>
+        <text font-size="36" x="189.17151" y="-268.1582" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7562ED87">
+            Fabian Hernandez
+        </text>
+        <text font-size="39" x="483.37817" y="-356.17966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7B2F7D4B">
+            Moshe Buchinsky
+        </text>
+        <text font-size="8" x="-451.31808" y="-192.43317" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="77B9C3D4">
+            Peter G Moffatt
+        </text>
+        <text font-size="8" x="-471.27917" y="-127.24271" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7FEEF27A">
+            A I Mcleod
+        </text>
+        <text font-size="8" x="17.897932" y="-158.0274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="79F82A24">
+            Jurgen Pilz
+        </text>
+        <text font-size="77" x="1.6237068" y="860.6805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7BAD5F12">
+            Mark Thyer
+        </text>
+        <text font-size="8" x="144.78197" y="-112.21417" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7D8AC7F6">
+            Guosheng Yin
+        </text>
+        <text font-size="8" x="74.90963" y="-441.71768" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7EBE4C49">
+            Lampros Vasiliades
+        </text>
+        <text font-size="8" x="153.46208" y="4.404001" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="77E0DCF6">
+            Eduardo Ferreira Da Silva
+        </text>
+        <text font-size="36" x="487.53925" y="573.5197" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7E8CF18D">
+            Victor M Guerrero
+        </text>
+        <text font-size="47" x="-347.40497" y="38.278774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7B5111EF">
+            Takashi Kanamura
+        </text>
+        <text font-size="8" x="-159.65486" y="185.24013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="79578F1E">
+            Katy Molodianovitch
+        </text>
+        <text font-size="8" x="142.72115" y="-54.045868" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="77B4D004">
+            Weijun Fu
+        </text>
+        <text font-size="8" x="93.34793" y="-382.52444" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="79B0C4E6">
+            Kolbjorn Engeland
+        </text>
+        <text font-size="8" x="-425.9129" y="222.65079" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7F255EA9">
+            Jiazhu Pan
+        </text>
+        <text font-size="41" x="-421.2088" y="-624.7545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7FB09267">
+            Andrew M Jones
+        </text>
+        <text font-size="44" x="-596.102" y="222.48376" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="757E33C9">
+            S Y Hwang
+        </text>
+        <text font-size="44" x="-284.37238" y="319.73376" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7889F228">
+            Enrique F Schisterman
+        </text>
+        <text font-size="8" x="76.25831" y="-163.92508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7738025E">
+            Jade Freeman
+        </text>
+        <text font-size="50" x="260.07092" y="-584.13495" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7681052E">
+            Lampros Vasiliades
+        </text>
+        <text font-size="68" x="-156.37386" y="-346.65314" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="80823CD8">
+            B Besbes
+        </text>
+        <text font-size="8" x="372.5793" y="146.6413" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7A21EF1E">
+            Byron J T Morgan
+        </text>
+        <text font-size="42" x="-319.4123" y="597.39465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7A6CFE3B">
+            Kelly H Zou
+        </text>
+        <text font-size="8" x="344.8886" y="-266.37573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7BC3423F">
+            Guosheng Yin
+        </text>
+        <text font-size="8" x="207.237" y="49.658005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7F9217A1">
+            Jun Yu
+        </text>
+        <text font-size="8" x="-182.41202" y="-40.709206" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="77CFBD3F">
+            A N M Koerhuis
+        </text>
+        <text font-size="8" x="424.7551" y="113.33069" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="77BB527E">
+            Gemai Chen
+        </text>
+        <text font-size="8" x="-336.9203" y="-145.58911" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="768B1850">
+            Chihfeng Chen
+        </text>
+        <text font-size="8" x="-103.23969" y="214.72993" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7BED54A1">
+            Andrew Frost
+        </text>
+        <text font-size="8" x="-218.70229" y="-97.86149" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7588D8FE">
+            Takashi Kanamura
+        </text>
+        <text font-size="73" x="699.4218" y="230.88359" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7D7BB092">
+            Zhelin Yang
+        </text>
+        <text font-size="45" x="360.1499" y="-36.420677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="78E77703">
+            Guosheng Yin
+        </text>
+    </g>
+</svg>

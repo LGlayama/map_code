@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="401.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-281.000000 -173.000000 401.000000 507.000000" height="507.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="18.0"
+              d="M 91.143509,-152.476746 C 114.177895,-60.978596 11.482277,110.820206 -80.015877,133.854584"
+              class="7E9E7F75 80F68AC6" stroke-opacity="0.49803922"
+              stroke="#811371"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff0000" r="200.0" cx="-80.01588"
+                class="80F68AC6" cy="133.85458" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0426e2" r="20.0" cx="91.14351"
+                class="7E9E7F75" cy="-152.47675" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="80" x="-80.01588" y="152.38322" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="80F68AC6">
+            R Vargas
+        </text>
+        <text font-size="8" x="91.14351" y="-150.62389" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="7E9E7F75">
+            Rene Vargas
+        </text>
+    </g>
+</svg>
